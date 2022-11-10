@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yasiru97&label=Profile%20views&color=0e75b6&style=flat" alt="Yasiru97" /> 
+<img src="https://komarev.com/ghpvc/?username=Kushanyasiru97&label=Profile%20views&color=0e75b6&style=flat" alt="Kushanyasiru97" /> 
 
 <br>
 
@@ -72,15 +72,14 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasiru97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Yasiru97" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kushanyasiru97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Kushanyasiru97" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasiru97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Yasiru97" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushanyasiru97&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Kushanyasiru97" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasiru97&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Yasiru97" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushanyasiru97&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kushanyasiru97" /></p>
