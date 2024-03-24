@@ -68,6 +68,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>  </p>
 
+  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/452156/angular.svg" alt="react" width="40" height="40" /> </a>  </p>
+
 <br>
 
 <h3>Statistical Data :-</h3>
